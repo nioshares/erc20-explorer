@@ -14,7 +14,7 @@ var config = function () {
   this.tokenShortName = "NIO";
   this.tokenAddress = "0xcc2ad789f459bc73e5fb33364964b658a62c1ee7";
   this.tokenDecimals = 8;
-  this.tokenName = "Golem Network Token";
+  this.tokenName = "NioShares Explorer";
   this.tokenDescription = "NioShares";
   this.tokenTotalSupply = 3360000000000000;
     
